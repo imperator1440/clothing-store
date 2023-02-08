@@ -1,1 +1,1 @@
-Full eCommerce project.
+Complete eCommerce project.
