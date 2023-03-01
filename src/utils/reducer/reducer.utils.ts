@@ -15,7 +15,7 @@ export function withMatcher(actionCreator: Function) {
     type,
     match(action: AnyAction) {
       return action.type === type;
-    };
+    }
   });
 };
 
